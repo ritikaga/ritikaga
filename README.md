@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ritika Garg
-A Information technlogy Engineer from india
+A Information technlogy Engineer from India
 
 <!--
 **ritikaga/ritikaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+# 
+
+💫 About Me:
+
+
 🌱 I’m currently learning Data Analytics<br><br>👨‍💻 All of my projects are available at https://ritikagarg.dev.voyage<br><br>💬 Ask me about Data Analysis<br><br>📫 Reach me @ smilewithritikagarg@gmail.com
 
 
