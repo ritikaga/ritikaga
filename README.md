@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Ritika Garg
 A Information technlogy Engineer from india
 
-![image](https://user-images.githubusercontent.com/66274316/216842882-349ab124-338e-4ec6-bd90-b11da4bb7594.png)
 <!--
 **ritikaga/ritikaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
