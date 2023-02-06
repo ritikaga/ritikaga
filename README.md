@@ -1,6 +1,6 @@
-### Hi there ![image](https://user-images.githubusercontent.com/66274316/217018494-d282772e-d558-4046-b36e-e2c949001836.png)
-, I'm Ritika Garg
-A Information technology Engineer from India
+
+<h1 align="center">Hi 👋, I'm Ritika Garg</h1>
+<h3 align="center">A Information technology Engineer from India</h3>
 
 <!--
 **ritikaga/ritikaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 -->
 # 
 
+[![](https://visitcount.itsvg.in/api?id=ritikaga&icon=0&color=0)](https://visitcount.itsvg.in)
+
 💫 About Me:
 
 
@@ -29,6 +31,14 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![image](https://user-images.githubusercontent.com/66274316/217023015-dc3d94ce-006f-4ec4-b307-83d751b397c2.png)
+![image](https://user-images.githubusercontent.com/66274316/217040239-f1af93b8-9838-4cf1-b704-6597963c3e55.png)
+![image](https://user-images.githubusercontent.com/66274316/217026480-b56b7b55-17ea-4d22-b8e1-b31b49d855ea.png)
+
+
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ritikaga&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ritikaga&theme=monokai&hide_border=false)<br/>
@@ -41,6 +51,5 @@ Here are some ideas to get you started:
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ritikaga&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
