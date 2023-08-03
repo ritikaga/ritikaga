@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/66274316/217040239-f1af93b8-9838-4cf1-b704-6597963c3e55.png)
 ![image](https://user-images.githubusercontent.com/66274316/217026480-b56b7b55-17ea-4d22-b8e1-b31b49d855ea.png)
 ![image](https://user-images.githubusercontent.com/66274316/219972336-fc16f144-8508-4555-896e-119499baf4f6.png)
-
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
 
