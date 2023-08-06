@@ -1,7 +1,7 @@
 ![image](https://github.com/ritikaga/ritikaga/assets/66274316/edeb1daa-cdf0-4c07-8070-b50af48d5c4f)
 
 <h1 align="center">Hi 👋, I'm Ritika Garg</h1>
-<h3 align="center">A Information technology Engineer from India</h3>
+<h3 align="center"> Data Analyst from India</h3>
 
 <!--
 **ritikaga/ritikaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
