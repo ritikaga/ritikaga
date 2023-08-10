@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/66274316/219972336-fc16f144-8508-4555-896e-119499baf4f6.png)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
+<img src="https://github.com/ritikaga/ritikaga/assets/66274316/9d6986db-4e49-41d0-a0b0-011ac83b7ee8" width=60, height=60 >
+
 
 
 
