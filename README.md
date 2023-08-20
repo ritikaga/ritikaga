@@ -4,7 +4,7 @@
 <h3 align="center"> A Future Data Analyst from India</h3>
 
 <!--
-**ritikaga/ritikaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ritikaga/ritikaga** is a ✨ _particular_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
